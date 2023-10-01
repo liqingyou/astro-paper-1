@@ -4,10 +4,10 @@ export const SITE: Site = {
   website: "https://astro-paper.pages.dev/",
   author: "Liqingyou",
   desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "blog.byte857.com",
+  title: "Blog!Byte857!",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
-  postPerPage: 5,
+  postPerPage: 4,
 };
 
 export const LOCALE = ["en-EN"]; // set to [] to use the environment default
