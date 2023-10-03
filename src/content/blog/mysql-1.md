@@ -6,7 +6,7 @@ postSlug: ""
 featured: true
 tags:
   - mysql
-description: "mysql 登录 导入sql文件 创建/进入数据库"
+description: "mysql 登录 导入sql文件 创建/进入数据库 关闭服务"
 ---
 
 #### 登录命令
@@ -28,4 +28,9 @@ CREATE DATABASE paopao;
 #### 进入数据库
 ```
 use paopao
+```
+
+#### 关闭服务
+```
+sudo systemctl stop mysql
 ```

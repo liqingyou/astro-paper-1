@@ -11,13 +11,11 @@ tags:
 description: "泡泡安装命令"
 ---
 
-#### 安装redis
+### 安装redis
 ```
 apt install redis-server
 sudo systemctl status redis-server
 ```
-
-#### 安装zinc
 
 #### 拷贝项目根目录下 config.yaml.sample 文件至 config.yaml
 ```
@@ -41,8 +39,8 @@ tar -C /usr/local -xzf go1.17.2.linux-amd64.tar.gz
 ```
 
 ### Zinc 搜索引擎:
-####
-```
+#### 安装zinc
+```shell
 # 创建用于存放zinc数据的目录
 mkdir -p data/zinc/data
 
