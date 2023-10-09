@@ -1,6 +1,6 @@
 ---
 author: LiQingYou
-pubDatetime: 2022-10-09T15:22:00Z
+pubDatetime: 2023-10-09T15:22:00Z
 title: MongoDB update 命令
 postSlug: MongoDB update 命令
 featured: true
