@@ -57,3 +57,6 @@ CONTAINER ID   IMAGE                                COMMAND                  CRE
 docker compose up -d zinc
 # visit http://localhost:4080 打开自带的ui管理界面
 ```
+
+NNj5p7cEu6t9p2MG0FSF
+F4V9zyCnA5MtiNgkdcv3dSiEnZTuRzex3GbfYtCn
