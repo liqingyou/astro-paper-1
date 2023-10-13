@@ -8,7 +8,7 @@ tags:
 description: ios 内购 is_trial_period 免费试用期
 ---
 ### is_trial_period
-An indicator of whether an auto-renewable subscription is in the free trial period.
+An indicator of whether an auto-renewable subscription is in the free trial period.<br/>
 指示自动续期订阅是否处于免费试用期的指标。
 #### Possible Values
 true
@@ -18,3 +18,6 @@ The subscription is in the free trial period.
 false
 The subscription is not in the free trial period.
 订阅不在免费试用期内。
+
+## 官方文档地址
+https://developer.apple.com/documentation/appstorereceipts/is_trial_period
