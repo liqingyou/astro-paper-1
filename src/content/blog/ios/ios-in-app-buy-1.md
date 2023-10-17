@@ -1,6 +1,6 @@
 ---
 author: LiQingYou
-pubDatetime: 2023-10-12T00:57:52.737Z
+pubDatetime: 2023-10-13T10:00:52.737Z
 title: iOS内购买自动续期订阅说明
 featured: false
 tags:
@@ -233,7 +233,7 @@ is_in_billing_retry_period为1表示用户支付信息有问题，苹果正在�
 对于用户退款、更改订阅的行为的检查，服务器可与苹果建立服务端的连接，获取用户的订阅状态变化通知。开发账户中要设置服务器的URL。
 
 > 作者：1150b290110c
->> 链接：https://www.jianshu.com/p/ebfeff00915d
->> 来源：简书
->>> 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+> 链接：https://www.jianshu.com/p/ebfeff00915d
+> 来源：简书
+> 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
