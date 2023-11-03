@@ -1,15 +1,15 @@
 ---
 author: liqingyou
 pubDatetime: 2023-10-18T09:12:54.547Z
-title: 检测是否支持ipv6
+title: 基于ipv6实现几乎零成本的内网穿透方案，小白的踩坑历程与经验分享
 postSlug: ""
 featured: true
 tags:
   - ipv6
-description: 检测是否支持ipv6 链接测试
+description: 基于ipv6实现几乎零成本的内网穿透方案，小白的踩坑历程与经验分享. 最近想远程访问家里nas的想法老在脑海中浮现，原因大概是本人二开了一个管理系统，并在上面跑了些定时任务做自动化，就有了远程访问系统的需求。同时又想到，如果真能实现内网穿透，那么家里的nas真实的成为一个服务器，且配置不低，带宽也凑活，最重要的是与云服务器相比，可以省下一大笔钱。
 ---
 
-### 测试地址
+### ipv6测试地址
 [https://test-ipv6.com/](https://test-ipv6.com/)
 
 ## 前言
