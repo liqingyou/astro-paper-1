@@ -3,12 +3,12 @@ author: liqingyou
 pubDatetime: 2023-11-03T11:55:54.547Z
 title: golang gin windows 打包
 postSlug: ""
-featured: true
+featured: false
 tags:
   - golang
   - gin
   - linux
-description: "PowerShell 不同环境下打包其他平台设置"
+description: "Command PowerShell Unix-based terminal 不同环境下打包其他平台设置 golang gin windows 打包"
 ---
 
 ### 不同环境下命令
